@@ -1,0 +1,13 @@
+
+
+#EXTM3U
+#EXTINF:-1,1
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23860
+#EXTINF:-1,2
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/88862
+#EXTINF:-1,3
+http://210.210.155.35:80/uq2663/h/h04/02.m3u8
+#EXTINF:-1,4
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/2.m3u8
+#EXTINF:-1,5
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
